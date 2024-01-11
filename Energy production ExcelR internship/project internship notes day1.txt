@@ -1,0 +1,8 @@
+need to make a presentation for each part
+business objectiv will be sheraed on monday
+need to perform regression analyises
+pridicting the energy production
+next meeting: understanding the bussiness objectiive and the dataset
+meeting on wednesday and saturday
+20/12/2023
+we need normailiation
